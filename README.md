@@ -22,18 +22,18 @@
 <tr>
 <td width="60%" valign="top">
 
-[Write 3-4 sentences here about who you are, your professional background,
-and what you're passionate about as a developer.]
+Currently working as back-end developer the PinaAcivs company.
+Me and my team are currently developing a whole ecossistem for the enterprise needs, from ERP modules to sales and finance modules.
 
-- Currently working on: **[project/role]**
-- Currently learning: **[technology/topic]**
-- Looking to collaborate on: **[type of project]**
-- Reach me at: **[email or LinkedIn]**
+- Currently working on: **PinaTech Platform as Junior Back-end developer**
+- Currently learning: **Software Architecture**
+- Looking to collaborate on: **Anything I could help with**
+- Reach me at: **augustodemor04@gmail.com**
 
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AugustoMorais222&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
 
 </td>
 </tr>
@@ -68,7 +68,7 @@ and what you're passionate about as a developer.]
 
 **Stack:** `Java` `Spring Boot` `PostgreSQL`
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/repo-name)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AugustoMorais222/repo-name)
 
 </td>
 <td width="50%">
@@ -78,7 +78,7 @@ and what you're passionate about as a developer.]
 
 **Stack:** `Python` `Django` `Docker`
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/repo-name)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AugustoMorais222/repo-name)
 
 </td>
 </tr>
@@ -92,16 +92,16 @@ and what you're passionate about as a developer.]
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAM&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoMorais222&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AugustoMorais222&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
-> Replace `YOUR_USERNAME` in every image URL above with your actual GitHub username.
+> Replace `AugustoMorais222` in every image URL above with your actual GitHub username.
 > If a widget shows an error initially, give it a minute to generate.
 
 <br>
