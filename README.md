@@ -49,17 +49,6 @@ integration across business units.
 
 </div>
 
-<div align="center">
-
-| Layer | Technologies |
-|---|---|
-| Backend (Java) | Spring Boot, Micronaut |
-| Backend (Python) | Django |
-| Data Storage | PostgreSQL, Redis |
-| Infrastructure | Docker, Linux, AWS |
-
-</div>
-
 <br>
 
 ## Enterprise Solutions
