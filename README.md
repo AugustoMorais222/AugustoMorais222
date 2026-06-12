@@ -1,81 +1,121 @@
-<h1 align="center">Hi, I'm Augusto 👋</h1>
+<div align="center">
 
-<h3 align="center">[One-line tagline — e.g. "Backend Developer | Java & Python enthusiast"]</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=[Your%20Name]&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=[Your%20Tagline%20Here]&descAlignY=58&descSize=20" width="100%"/>
 
-<p align="center">
-  [Short intro paragraph — 2-3 sentences about who you are, what you do, and what you're focused on right now.]
-</p>
+</div>
 
----
+<br>
 
-### 🚀 About Me
+<div align="center">
 
-- 🔭 I'm currently working on **Pinatech Platform**
-- 💬 Ask me about **Spring, Micronaut and Django**
-- 📫 How to reach me: **augustodemor04@gmail.com**
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+%7C+Spring+%7C+Micronaut;Python+%7C+Django;Building+robust+backend+systems&font=Fira+Code&center=true&width=500&height=50&color=2C5364&vCenter=true&pause=1500&size=22"/>
+</a>
 
----
+</div>
 
-### 🛠️ Tech Stack
+<br>
 
-**Languages**
+## About Me
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<table>
+<tr>
+<td width="60%" valign="top">
 
-**Frameworks**
+[Write 3-4 sentences here about who you are, your professional background,
+and what you're passionate about as a developer.]
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Micronaut](https://img.shields.io/badge/Micronaut-2D2D2D?style=for-the-badge&logo=micronaut&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- Currently working on: **[project/role]**
+- Currently learning: **[technology/topic]**
+- Looking to collaborate on: **[type of project]**
+- Reach me at: **[email or LinkedIn]**
 
-**Databases**
+</td>
+<td width="40%" valign="top" align="center">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
 
-**Tools & Platforms**
+</td>
+</tr>
+</table>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<br>
 
-> 💡 Tip: remove badges for tools you don't use, and add others (Kafka, Redis, GCP, Azure, GraphQL, etc.) by editing the shields.io URL — just change the text after the last `/badge/`.
+## Tech Stack
 
----
+<div align="center">
 
-### 📌 Pinned Highlights
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,postgres,mysql,docker,git,linux,aws&theme=dark" />
 
-> Use this section if you want to describe your top 2-3 projects in text form (in addition to pinning repos on your profile).
+</div>
 
-**[Project Name]**
-[1-2 sentence description — what it does, what stack you used, what problem it solves]
-🔗 [Live demo / repo link]
+> Edit the icon list above by changing the `i=` parameter at
+> [skillicons.dev](https://skillicons.dev) — pick the icons that match your real stack
+> (e.g. add `micronaut`, `kafka`, `redis`, `kubernetes`, `gcp`, `azure`).
 
-**[Project Name]**
-[1-2 sentence description]
-🔗 [Live demo / repo link]
+<br>
 
----
+## Highlighted Projects
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AugustoMorais222&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoMorais222&layout=compact" alt="Top Languages" />
-</p>
+### [Project Name 1]
+[1-2 sentence description — what it does, what stack you used, what problem it solves.]
 
+**Stack:** `Java` `Spring Boot` `PostgreSQL`
 
----
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/repo-name)
 
-### 🌐 Connect with Me
+</td>
+<td width="50%">
 
-[Add badges or links for LinkedIn, personal site, Twitter/X, email, etc. — example below]
+### [Project Name 2]
+[1-2 sentence description — what it does, what stack you used, what problem it solves.]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/augusto-de-morais-pinto-62b529270)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augustodemor04@gmail.com)
+**Stack:** `Python` `Django` `Docker`
 
----
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/repo-name)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+> Replace `YOUR_USERNAME` in every image URL above with your actual GitHub username.
+> If a widget shows an error initially, give it a minute to generate.
+
+<br>
+
+## Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-site.com)
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
