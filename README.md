@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=[Augusto%20Morais]&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=[Back-end%20Developer]&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Augusto%20Morais&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 </div>
 
@@ -49,12 +49,6 @@ Me and my team are currently developing a whole ecossistem for the enterprise ne
 
 </div>
 
-> Edit the icon list above by changing the `i=` parameter at
-> [skillicons.dev](https://skillicons.dev) — pick the icons that match your real stack
-> (e.g. add `micronaut`, `kafka`, `redis`, `kubernetes`, `gcp`, `azure`).
-
-<br>
-
 ## Highlighted Projects
 
 <div align="center">
@@ -101,17 +95,13 @@ Me and my team are currently developing a whole ecossistem for the enterprise ne
 
 </div>
 
-> Replace `AugustoMorais222` in every image URL above with your actual GitHub username.
-> If a widget shows an error initially, give it a minute to generate.
-
-<br>
 
 ## Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/augusto-de-morais-pinto-62b529270)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augustodemor04@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-site.com)
 
 </div>
