@@ -92,7 +92,7 @@ Me and my team are currently developing a whole ecossistem for the enterprise ne
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAM&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AugustoMorais222&theme=tokyonight&hide_border=true" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoMorais222&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br><br>
