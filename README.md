@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=[Your%20Name]&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=[Your%20Tagline%20Here]&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=[Augusto%20NMorais]&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=[Back-end%20Developer]&descAlignY=58&descSize=20" width="100%"/>
 
 </div>
 
@@ -45,7 +45,7 @@ Me and my team are currently developing a whole ecossistem for the enterprise ne
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,django,postgres,mysql,docker,git,linux,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,postgres,docker,linux,aws,redis&theme=dark" />
 
 </div>
 
