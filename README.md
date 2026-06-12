@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Augusto 👋</h1>
 
 <h3 align="center">[One-line tagline — e.g. "Backend Developer | Java & Python enthusiast"]</h3>
 
@@ -10,11 +10,9 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **[project/role]**
-- 🌱 I'm currently learning **[technology/topic]**
-- 💬 Ask me about **[your strong topics, e.g. Spring Boot, Django, Microservices]**
-- 📫 How to reach me: **[email or LinkedIn]**
-- ⚡ Fun fact: **[something personal/fun]**
+- 🔭 I'm currently working on **Pinatech Platform**
+- 💬 Ask me about **Spring, Micronaut and Django**
+- 📫 How to reach me: **augustodemor04@gmail.com**
 
 ---
 
@@ -63,14 +61,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AugustoMorais222&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoMorais222&layout=compact" alt="Top Languages" />
 </p>
 
-> ⚠️ Replace `YOUR_USERNAME` (in both image URLs above) with your actual GitHub username.
 
 ---
 
@@ -78,9 +75,7 @@
 
 [Add badges or links for LinkedIn, personal site, Twitter/X, email, etc. — example below]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/augusto-de-morais-pinto-62b529270)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augustodemor04@gmail.com)
 
 ---
-
-<p align="center"><i>[Optional closing line — a quote, motto, or "Thanks for stopping by!"]</i></p>
