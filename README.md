@@ -1,34 +1,34 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Augusto%20Morais&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer&descAlignY=58&descSize=20" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Augusto%20Morais&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Backend%20Developer&descAlignY=58&descSize=20" width="100%"/>
 </div>
 
 <br>
 
 <div align="center">
-
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java+%7C+Spring+%7C+Micronaut;Python+%7C+Django;Building+robust+backend+systems&font=Fira+Code&center=true&width=500&height=50&color=2C5364&vCenter=true&pause=1500&size=22"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Enterprise+Resource+Planning+Systems;Sales+%26+Finance+Modules;Java+%7C+Spring+%7C+Micronaut+%7C+Python+%7C+Django&font=Fira+Code&center=true&width=550&height=50&color=2C5364&vCenter=true&pause=1500&size=20"/>
 </a>
-
 </div>
 
 <br>
 
-## About Me
+## Professional Overview
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-Currently working as back-end developer the PinaAcivs company.
-Me and my team are currently developing a whole ecossistem for the enterprise needs, from ERP modules to sales and finance modules.
+I work as a Back-end Developer at PinaTech, where I am part of a team
+developing a comprehensive enterprise ecosystem encompassing **ERP**,
+**Sales**, and **Finance** modules, designed to support end-to-end business
+operations. The platform is built on **Java** (Spring, Micronaut) and
+**Python** (Django), with a focus on scalability, maintainability, and
+integration across business units.
 
-- Currently working on: **PinaTech Platform as Junior Back-end developer**
-- Currently learning: **Software Architecture**
-- Looking to collaborate on: **Anything I could help with**
-- Reach me at: **augustodemor04@gmail.com**
+- **Current focus:** PinaTech Platform — Back-end Junior Developer
+- **Areas of expertise:** Software Architecture
+- **Open to collaboration on:** projects where my backend skills can add value
+- **Professional contact:** augustodemor04@gmail.com
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -41,7 +41,7 @@ Me and my team are currently developing a whole ecossistem for the enterprise ne
 
 <br>
 
-## Tech Stack
+## Technology Stack
 
 <div align="center">
 
@@ -49,13 +49,26 @@ Me and my team are currently developing a whole ecossistem for the enterprise ne
 
 </div>
 
-## Highlighted Projects
+<div align="center">
+
+| Layer | Technologies |
+|---|---|
+| Backend (Java) | Spring Boot, Micronaut |
+| Backend (Python) | Django |
+| Data Storage | PostgreSQL, Redis |
+| Infrastructure | Docker, Linux, AWS |
+
+</div>
+
+<br>
+
+## Enterprise Solutions
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [Project Name 1]
 [1-2 sentence description — what it does, what stack you used, what problem it solves.]
@@ -65,7 +78,7 @@ Me and my team are currently developing a whole ecossistem for the enterprise ne
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AugustoMorais222/repo-name)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [Project Name 2]
 [1-2 sentence description — what it does, what stack you used, what problem it solves.]
@@ -82,7 +95,7 @@ Me and my team are currently developing a whole ecossistem for the enterprise ne
 
 <br>
 
-## GitHub Activity
+## Repository Activity
 
 <div align="center">
 
@@ -95,8 +108,9 @@ Me and my team are currently developing a whole ecossistem for the enterprise ne
 
 </div>
 
+<br>
 
-## Connect With Me
+## Professional Contact
 
 <div align="center">
 
