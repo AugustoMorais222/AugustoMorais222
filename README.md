@@ -45,7 +45,7 @@ Me and my team are currently developing a whole ecossistem for the enterprise ne
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,micronaut,python,django,postgres,docker,linux,aws,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,postgres,docker,linux,aws,redis&theme=dark" />
 
 </div>
 
