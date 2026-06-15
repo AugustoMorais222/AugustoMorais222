@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Augusto%20Morais&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Backend%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Augusto%20Morais&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer&descAlignY=58&descSize=20" width="100%"/>
 </div>
 
 <br>
 
 <div align="center">
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Enterprise+Resource+Planning+Systems;Sales+%26+Finance+Modules;Java+%7C+Spring+%7C+Micronaut+%7C+Python+%7C+Django&font=Fira+Code&center=true&width=550&height=50&color=2C5364&vCenter=true&pause=1500&size=20"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+%7C+Spring+%7C+Micronaut;Python+%7C+Django;Building+robust+backend+systems&font=Fira+Code&center=true&width=500&height=50&color=2C5364&vCenter=true&pause=1500&size=22"/>
 </a>
 </div>
 
@@ -19,11 +19,10 @@
 <td width="60%" valign="top">
 
 I work as a Back-end Developer at PinaTech, where I am part of a team
-developing a comprehensive enterprise ecosystem encompassing **ERP**,
-**Sales**, and **Finance** modules, designed to support end-to-end business
-operations. The platform is built on **Java** (Spring, Micronaut) and
-**Python** (Django), with a focus on scalability, maintainability, and
-integration across business units.
+developing a platform composed of ERP, Sales, and Finance modules. The
+platform is built on **Java** (Spring, Micronaut) and **Python** (Django),
+with a focus on scalability, maintainability, and integration across
+business units.
 
 - **Current focus:** PinaTech Platform — Back-end Junior Developer
 - **Areas of expertise:** Software Architecture
@@ -49,9 +48,20 @@ integration across business units.
 
 </div>
 
+<div align="center">
+
+| Layer | Technologies |
+|---|---|
+| Backend (Java) | Spring Boot, Micronaut |
+| Backend (Python) | Django |
+| Data Storage | PostgreSQL, Redis |
+| Infrastructure | Docker, Linux, AWS |
+
+</div>
+
 <br>
 
-## Enterprise Solutions
+## Projects
 
 <div align="center">
 
